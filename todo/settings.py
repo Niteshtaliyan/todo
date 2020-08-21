@@ -35,7 +35,7 @@ SECRET_KEY = '22nwt*-zjw_jxc3!ucc-(78z6n4zkg=vwdw86_z6)y0y7#00&8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://nitesh-todoapp.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
 
 
 # Application definition
